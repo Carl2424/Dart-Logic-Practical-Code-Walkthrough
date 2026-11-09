@@ -78,6 +78,6 @@ void main() async {
   } catch (error) {
     print('System Error: Failed to process record ($error)');
   } finally {
-    print('\nProcess complete.');
+    print('\nGrades complete.');
   }
 }
